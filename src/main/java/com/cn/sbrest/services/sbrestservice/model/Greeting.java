@@ -1,4 +1,4 @@
-package com.cn.sbrest.services.sbrestservice;
+package com.cn.sbrest.services.sbrestservice.model;
 
 public class Greeting {
 
