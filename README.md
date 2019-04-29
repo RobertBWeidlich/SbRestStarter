@@ -7,7 +7,7 @@ interface.
     mvn clean install
     
 #### Usage
-    curl localhost:8011/greeting-service/greeting-details
+    curl localhost:7911/greeting-service/greeting-details
     
 Based on code from 
 
